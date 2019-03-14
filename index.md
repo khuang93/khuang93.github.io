@@ -24,9 +24,11 @@ Supervisor: Peidong Liu and Prof. Marc Pollefeys
 
     [Code](https://github.com/khuang93/MT_ObjSLAM), [Thesis]()
 
-* Feasibility study of an unsprung aerodynamic package on a Formula Student race car, Bachelor Thesis, ETH Zürich.
+* **Feasibility study of an unsprung aerodynamic package in Formula Student**
+Bachelor Thesis, ETH Zürich.
 
-* Formula Student Electric, AMZ Racing, ETH Zurich Student Project, 09.2013 - 09.2016
+* **Formula Student Electric**
+ETH Zurich Student Project, AMZ Racing, 09.2013 - 09.2016
   Building a formula style race car in a team of about 25 people. Compete in European Formula Student Competitions (Germany, UK, Austria, Spain, etc.)
   * Design and development of steering system
   * Design, simulation and validation of aerodynamics
@@ -36,10 +38,11 @@ Supervisor: Peidong Liu and Prof. Marc Pollefeys
 
 ### Industry
 
-* Particle Filter for lane level localization
-  Short Internship, Autonomous Driving Department, NIO, Shanghai, 12.2018-01.2019
+* **Particle Filter for lane level localization**
+Short Internship, Autonomous Driving Department, NIO, Shanghai, 12.2018-01.2019
   Using particle filter to do sensor fusion from camera, GPS and IMU with consideration of HD-Map data.
-* CFD Methodology Development, MAHLE Behr GmbH, Stuttgart, 03.2016 - 09.2016
+* **CFD Methodology Development**
+MAHLE Behr GmbH, Stuttgart, 03.2016 - 09.2016
   Programming Java-Tools for automation of STAR-CCM+ simulation workflow, post processing and report generation.
 
 
