@@ -103,5 +103,5 @@ You can find my CV as PDF [here](./resources/CV-Kailin_Huang_2019_Feb_Photo.pdf)
 ## Contact
 My Email is kailin-huang@outlook.com 
 
-You are also welcome to follow me and message on [LinkedIn](https://www.linkedin.com/in/kailinhuang93/) and [Github](https://github.com/khuang93). 
+You are also welcome to follow me and message me on [LinkedIn](https://www.linkedin.com/in/kailinhuang93/) and [Github](https://github.com/khuang93). 
 I am also a hobby photograph, follow [Instagram](https://www.instagram.com/khuang1993/) and [Shutterstock](https://www.shutterstock.com/g/Kailin+Huang) to see my photos.
