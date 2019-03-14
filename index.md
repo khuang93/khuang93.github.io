@@ -44,10 +44,16 @@ I just started this page so it is "under construction" currently.
 
 
 
-My [technical blog](./blogs/blogs.md)
+My [technical blog](./blogs/blogs.md). Currently empty but will be filled with stuffs during the time.
 
 
 
-This is my [CV](./resources/CV-Kailin_Huang_2019_Feb_Photo.pdf).
 
-You are welcome to follow me on [LinkedIn](https://www.linkedin.com/in/kailinhuang93/) and [Github](https://github.com/khuang93). I am also a hobby photograph, my photos are on [Instagram](https://www.instagram.com/khuang1993/) and [Shutterstock](https://www.shutterstock.com/g/Kailin+Huang).
+
+You can find my CV as PDF [here](./resources/CV-Kailin_Huang_2019_Feb_Photo.pdf), last updated in Feb 2019.
+
+##Contact
+My Email is kailin-huang@outlook.com 
+
+You are also welcome to follow me and message on [LinkedIn](https://www.linkedin.com/in/kailinhuang93/) and [Github](https://github.com/khuang93). 
+I am also a hobby photograph, follow [Instagram](https://www.instagram.com/khuang1993/) and [Shutterstock](https://www.shutterstock.com/g/Kailin+Huang) to see my photos.
