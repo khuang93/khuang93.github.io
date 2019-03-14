@@ -1,2 +1,12 @@
 theme: jekyll-theme-slate
 title: Welcome to Kailin Huang's homepage!
+
+plugins:
+- jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+  - index.md
+  - about.md
