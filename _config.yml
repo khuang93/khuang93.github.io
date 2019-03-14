@@ -1,5 +1,5 @@
 theme: jekyll-theme-slate
-title: Welcome to Kailin Huang's homepage! (Currently under construction)
+title: Kailin Huang's homepage (Currently under construction)
 
 plugins:
 - jekyll-relative-links
@@ -9,4 +9,3 @@ relative_links:
 include:
   - README.md
   - index.md
-  - about.md
