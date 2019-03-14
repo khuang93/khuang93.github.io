@@ -22,7 +22,7 @@ Supervisor: Peidong Liu and Prof. Marc Pollefeys
   * Using alignment of depth information to creat a 3D reconstruction of each object.
   * Objects can be used as landmarks for localization and loop closure.
 
-    [Code](https://github.com/khuang93/MT_ObjSLAM), [Thesis]()
+    [Code](https://github.com/khuang93/MT_ObjSLAM), [Thesis](./resources/MT_ObjSLAM_LaTeX.pdf)
 
 * **Feasibility study of an unsprung aerodynamic package in Formula Student**
 Bachelor Thesis, ETH Zürich.
