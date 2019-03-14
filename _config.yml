@@ -1,5 +1,5 @@
 # theme: jekyll-theme-slate
-title: Kailin Huang's homepage (Currently under construction)
+title: Kailin Huang's homepage
 
 plugins:
 # - jekyll-relative-links
@@ -10,4 +10,7 @@ include:
   - README.md
   - index.md
 
-theme: jekyll-theme-minimal
+logo: /assets/img/logo.png
+description: Kailin Huang's homepage
+
+# theme: jekyll-theme-minimal
