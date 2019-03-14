@@ -36,7 +36,7 @@ Master Thesis  under supervision of Peidong Liu and Prof. Marc Pollegeys in Comp
 
 
 
-I just started this page so it is "under construction" currently.
+
 
 
 
