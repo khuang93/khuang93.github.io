@@ -10,7 +10,7 @@ include:
   - README.md
   - index.md
 
-logo: /assets/img/logo.png
+logo: /resources/KailinHuangPhoto.jpg
 description: Kailin Huang's homepage
 
 theme: jekyll-theme-minimal

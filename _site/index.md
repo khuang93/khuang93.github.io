@@ -1,4 +1,4 @@
-![](./resources/KailinHuangPhoto.jpg){:height="240px" width="240px"}
+<!-- ![](./resources/KailinHuangPhoto.jpg){:height="240px" width="240px"} -->
 # **Kailin Huang**  
 
 ## About Me
