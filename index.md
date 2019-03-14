@@ -1,4 +1,5 @@
-|# **Kailin Huang** | ![](./resources/KailinHuangPhoto.jpg){:height="240px" width="240px"} |
+![](./resources/KailinHuangPhoto.jpg){:height="240px" width="240px"}
+# **Kailin Huang**  
 
 ## About Me
 I am a graduating master student from ETH Zürich Mechanical Engineering, Robotics. My focus is on Computer Vision and Visual Localization and Mapping.
