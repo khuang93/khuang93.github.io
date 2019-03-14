@@ -4,9 +4,9 @@
 ## About Me
 I am a graduating master student from ETH Zürich Mechanical Engineering, Robotics. My focus is on Computer Vision and Visual Localization and Mapping.
 
-I was born in China and followed my parents to Germany when I was 15. After finishing the German highschool (Abitur) I decided to study mechanical engineering at ETH Zurich and came Switzerland.
+I was born in China and grew up there. I moved to Germany with my parents when I was 15. After finishing the German highschool (Abitur), I decided to study mechanical engineering at ETH Zurich and came to Switzerland.
 
-I can speak Chinese, English and German fluently and can, after several years of stuggle, also understand Swiss German ;)
+I can speak Chinese, English and German fluently and can, after several years of stuggle, also understand Swiss German. ;)
 
 ## Education
 * MSc. in Mechanical Engineering focus Robotics at ETH Zürich, 2016-2019
