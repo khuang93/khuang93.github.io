@@ -1,4 +1,4 @@
-# **Kailin Huang**
+# **Kailin Huang** ![](./resources/KailinHuangPhoto.png)
 
 ## About Me
 Gratuating master student from ETH Zürich Mechanical Engineering, Robotics. My focus is on Computer Vision and Visual Localization and Mapping. 
@@ -40,4 +40,6 @@ My [technical blog](./blogs/blog_main.md)
 
 
 
-This is my [CV](./resources/CV-Kailin_Huang_2019_Feb_Photo.pdf)
+This is my [CV](./resources/CV-Kailin_Huang_2019_Feb_Photo.pdf).
+
+You are welcome to follow me on [LinkedIn](https://www.linkedin.com/in/kailinhuang93/) and [Github](https://github.com/khuang93). I am also a hobby photograph, my photos are on [Instagram](https://www.instagram.com/khuang1993/) and [Shutterstock](www.shutterstock.com/g/Kailin+Huang).
