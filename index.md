@@ -36,14 +36,6 @@ Master Thesis  under supervision of Peidong Liu and Prof. Marc Pollegeys in Comp
 
 
 
-
-
-
-
-
-
-
-
 My [technical blog](./blogs/blogs.md). Currently empty but will be filled with stuffs during the time.
 
 
@@ -52,7 +44,7 @@ My [technical blog](./blogs/blogs.md). Currently empty but will be filled with s
 
 You can find my CV as PDF [here](./resources/CV-Kailin_Huang_2019_Feb_Photo.pdf), last updated in Feb 2019.
 
-##Contact
+## Contact
 My Email is kailin-huang@outlook.com 
 
 You are also welcome to follow me and message on [LinkedIn](https://www.linkedin.com/in/kailinhuang93/) and [Github](https://github.com/khuang93). 
