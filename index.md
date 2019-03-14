@@ -8,7 +8,7 @@ I was born in China and grew up there. I moved to Germany with my parents when I
 
 I can speak Chinese, English and German fluently and can, after several years of stuggle, also understand Swiss German. ;)
 
-My detailed CV as PDF can be downloaded [here]({site.cv}}), last updated in Feb 2019.
+My detailed CV as PDF can be downloaded [here]{site.cv}, last updated in Feb 2019.
 
 
 ## Projects & Experiences
