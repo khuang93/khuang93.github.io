@@ -1,2 +1,25 @@
-theme: jekyll-theme-slate
-title: Welcome to Kailin Huang's homepage!
+# Site settings
+name: 
+email: 
+author: 
+url: 
+resume_site:
+github:
+baseurl: 
+description: 
+meta_description: Kailin Huang
+
+
+#permalink: /:categories/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
+paginate: 10
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+
+github_username: khuang93
+
+# Build settings
+markdown: kramdown
+
+#baidu_analysis: 94be4b0f9fc5d94cc0d0415ea6761ae9
+
