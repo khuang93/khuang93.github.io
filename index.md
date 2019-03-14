@@ -65,17 +65,17 @@ MAHLE Behr GmbH, Stuttgart, 03.2016 - 09.2016
 
 * BSc. in Mechanical Engineering at [ETH Zürich](http://www.ethz.ch), 2012-2016
   
- Courses
- * Analysis I/II/III
- * Mechanics I/II/III
- * Linear Algebra
- * Control Systems I/II
- * Signals and Systems
- * Informatics
- * Computational Engineering
- * Fluid Dynamics I/II
- * Thermodynamics I/II/III
- * Aerial and Ground Vehicle Aerodynamcis
+    Courses:
+    * Analysis I/II/III
+    * Mechanics I/II/III
+    * Linear Algebra
+    * Control Systems I/II
+    * Signals and Systems
+    * Informatics
+    * Computational Engineering
+    * Fluid Dynamics I/II
+    * Thermodynamics I/II/III
+    * Aerial and Ground Vehicle Aerodynamcis
 
 
 
