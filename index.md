@@ -9,6 +9,8 @@ I am born in China and followed my parents to Germany when I was 15. After finis
 I can speak Chinese, English and German fluently and can, after several years of stuggle, also understand Swiss German ;)
 
 ## Education
+* MSc. in Mechanical Engineering focus Robotics at ETH Zürich, 2016-2019
+* BSc. in Mechanical Engineering at ETH Zürich, 2012-2016
 
 ## Projects & Experiences
 
