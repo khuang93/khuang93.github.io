@@ -1,3 +1,12 @@
+**Kailin Huang**
+
+Gratuating master student from ETH Zürich Mechanical Engineering, Robotics. My focus is on Computer Vision and Visual Localization and Mapping. I just started this page so it is "under construction" currently.
+
+
+
+
+
+
 
 My [technical blog](./blogs/blog_main.md)
 
