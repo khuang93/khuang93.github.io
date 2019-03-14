@@ -21,6 +21,7 @@ Supervisor: Peidong Liu and Prof. Marc Pollefeys
   * Dense SLAM using RGB-D cameras with semantic instance segmentation using deep learning.
   * Using alignment of depth information to creat a 3D reconstruction of each object.
   * Objects can be used as landmarks for localization and loop closure.
+
     [Code](https://github.com/khuang93/MT_ObjSLAM), [Thesis](./resources/MT_ObjSLAM_LaTeX.pdf)
 
 * **The role of Fluid Mechanics in Zebrafish Regeneration**
@@ -96,21 +97,8 @@ Focus in Robotics
 
 
 
-
-
-
-
-
-
-
-
-
 ### More to come
 My [technical blog](./blogs/blogs.md). Currently empty but will be filled with stuffs during the time.
-
-
-
-
 
 
 
