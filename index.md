@@ -1,16 +1,16 @@
-#**Kailin Huang**
+# **Kailin Huang**
 
-##About Me
+## About Me
 Gratuating master student from ETH Zürich Mechanical Engineering, Robotics. My focus is on Computer Vision and Visual Localization and Mapping. 
 
-##Education
+## Education
 
-##Projects & Experiences
+## Projects & Experiences
 
-###Particle Filter for lane level localization
+### Particle Filter for lane level localization
 _Short Internship at NIO, Shanghai_
 
-###Dense Object SLAM
+### Dense Object SLAM
 _Master Thesis  under supervision of Peidong Liu and Prof. Marc Pollegeys in Computer Vision and Geometry Group, ETH Zürich_
 
 ###
