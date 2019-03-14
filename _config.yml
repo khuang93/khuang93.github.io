@@ -13,4 +13,4 @@ include:
 logo: /assets/img/logo.png
 description: Kailin Huang's homepage
 
-# theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
