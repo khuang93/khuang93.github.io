@@ -2,10 +2,10 @@
 title: Kailin Huang's homepage (Currently under construction)
 
 plugins:
-- jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
+# - jekyll-relative-links
+# relative_links:
+#   enabled: true
+#   collections: true
 include:
   - README.md
   - index.md
