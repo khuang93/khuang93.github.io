@@ -15,12 +15,13 @@ I can speak Chinese, English and German fluently and can, after several years of
 ## Projects & Experiences
 
 ### Particle Filter for lane level localization
-_Short Internship at NIO, Shanghai_
+Short Internship at Autonomous Driving Department of NIO, Shanghai, 12.2018-01.2019
 
 ### Dense Object SLAM
-_Master Thesis  under supervision of Peidong Liu and Prof. Marc Pollegeys in Computer Vision and Geometry Group, ETH Zürich_
+Master Thesis  under supervision of Peidong Liu and Prof. Marc Pollegeys in Computer Vision and Geometry Group, ETH Zürich, 03.2018-10.2018
 
-###
+[Code](https://github.com/khuang93/MT_ObjSLAM)
+
 
 
 
