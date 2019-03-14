@@ -21,7 +21,8 @@ Supervisor: Peidong Liu and Prof. Marc Pollefeys
   * Dense SLAM using RGB-D cameras with semantic instance segmentation using deep learning.
   * Using alignment of depth information to creat a 3D reconstruction of each object.
   * Objects can be used as landmarks for localization and loop closure.
-[Code](https://github.com/khuang93/MT_ObjSLAM) | [Thesis]()
+
+    [Code](https://github.com/khuang93/MT_ObjSLAM) | [Thesis]()
 
 * Feasibility study of an unsprung aerodynamic package on a Formula Student race car, Bachelor Thesis, ETH Zürich.
 
@@ -30,7 +31,8 @@ Supervisor: Peidong Liu and Prof. Marc Pollefeys
   * Design and development of steering system
   * Design, simulation and validation of aerodynamics
   * Mentor of aerodynamics
-[AMZ Racing](www.amzracing.ch) | [Formula Student Germany](www.formulastudent.de)
+
+    [AMZ Racing](http://www.amzracing.ch) | [Formula Student Germany](http://www.formulastudent.de)
 
 ### Industry
 
