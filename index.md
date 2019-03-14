@@ -1,5 +1,5 @@
-Kailin Huang
-**Test INdex**
+
+My [technical blog](./blogs/blog_main.md)
 
 
 
