@@ -1,14 +1,14 @@
 # theme: jekyll-theme-slate
 title: Kailin Huang's homepage
 
-plugins:
+# plugins:
 # - jekyll-relative-links
 # relative_links:
 #   enabled: true
 #   collections: true
-include:
-  - README.md
-  - index.md
+# include:
+#   - README.md
+#   - index.md
 
 logo: /resources/KailinHuangPhoto.jpg
 description: Kailin Huang's homepage
