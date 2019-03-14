@@ -15,7 +15,7 @@ I can speak Chinese, English and German fluently and can, after several years of
 
 ### Academic
 * **[Dense Object SLAM](./projects/mt_objslam.md)**
-Master Thesis, Computer Vision and Geometry Group, ETH Zürich, 03.2018-10.2018
+Master Thesis, [Computer Vision and Geometry Group](http://www.cvg.ethz.ch/index.php), ETH Zürich, 03.2018-10.2018
 Supervisor: Peidong Liu and Prof. Marc Pollefeys
 
   * Dense SLAM using RGB-D cameras with semantic instance segmentation using deep learning.
@@ -45,7 +45,8 @@ Supervisor: Peidong Liu and Prof. Marc Pollefeys
 
 
 ## Education
-* MSc. in Mechanical Engineering focus Robotics at ETH Zürich, 2016-2019
+* MSc. in Mechanical Engineering focus Robotics at [ETH Zürich](http://www.ethz.ch), 2016-2019
+  
   Courses:
   * Machine Learning
   * Probabilistic Artificial Intelligence
@@ -59,7 +60,8 @@ Supervisor: Peidong Liu and Prof. Marc Pollefeys
   * Fundamentals of CFD
   * Advanced CFD
 
-* BSc. in Mechanical Engineering at ETH Zürich, 2012-2016
+* BSc. in Mechanical Engineering at [ETH Zürich](http://www.ethz.ch), 2012-2016
+  
  Courses
  * Analysis I/II/III
  * Mechanics I/II/III
