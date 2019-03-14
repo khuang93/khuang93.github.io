@@ -8,14 +8,14 @@ I was born in China and grew up there. I moved to Germany with my parents when I
 
 I can speak Chinese, English and German fluently and can, after several years of stuggle, also understand Swiss German. ;)
 
-
+My detailed CV as PDF can be downloaded [here](cv), last updated in Feb 2019.
 
 
 ## Projects & Experiences
 
 ### Academic
 * **[Dense Object SLAM](./projects/mt_objslam.md)**
-Master Thesis, [Computer Vision and Geometry Group](http://www.cvg.ethz.ch/index.php), ETH Zürich, 03.2018-10.2018
+Master Thesis, [Computer Vision and Geometry Group](http://www.cvg.ethz.ch/index.php), ETH Zürich, 03.2018 - 10.2018
 Supervisor: Peidong Liu and Prof. Marc Pollefeys
 
   * Dense SLAM using RGB-D cameras with semantic instance segmentation using deep learning.
@@ -24,33 +24,40 @@ Supervisor: Peidong Liu and Prof. Marc Pollefeys
 
     [Code](https://github.com/khuang93/MT_ObjSLAM), [Thesis](./resources/MT_ObjSLAM_LaTeX.pdf)
 
+* **The role of Fluid Mechanics in Zebrafish Regeneration**
+Semester Project, [CSE-Lab](https://www.cse-lab.ethz.ch/), ETH Zürich, 04.2017 - 07.2017
+Supervisor: Dr. Siddhartha Verma
+
+    * Coupled fluid-solid CFD simulation to understand the force on a zebra-fish's tailfin.
+
 * **Feasibility study of an unsprung aerodynamic package in Formula Student**
-Bachelor Thesis, ETH Zürich.
+Bachelor Thesis, ETH Zürich
 
 * **Formula Student Electric**
-ETH Zurich Student Project, AMZ Racing, 09.2013 - 09.2016
-  Building a formula style race car in a team of about 25 people. Compete in European Formula Student Competitions (Germany, UK, Austria, Spain, etc.)
+ETH Zurich Student Project,  [AMZ Racing](http://www.amzracing.ch), 09.2013 - 09.2016
+  Building a formula style race car in a team of about 25 people. Compete in Formula Student competitions (Formula Student [Germany](http://www.formulastudent.de) 
+, [UK](http://www.imeche.org/events/formula-student/), [Austria](https://fsaustria.at/), [Spain](http://formulastudent.es/)) across Europe.
   * Design and development of steering system
-  * Design, simulation and validation of aerodynamics
+  * Design, simulation, manufacturing of aerodynamics
+  * Wind-tunnel testing and validation of aerodynamics
   * Mentor of aerodynamics
-
-    [AMZ Racing](http://www.amzracing.ch), [Formula Student Germany](http://www.formulastudent.de)
 
 ### Industry
 
 * **Particle Filter for lane level localization**
-Short Internship, Autonomous Driving Department, NIO, Shanghai, 12.2018-01.2019
+Short Internship, Autonomous Driving Department, [NIO](https://www.nio.io/), Shanghai, 12.2018 - 01.2019
   Developing a particle filter to do sensor fusion from camera, GPS and IMU, in order to locate the car precisely inside the correct lane in  HD-Map.
 * **CFD Methodology Development**
-MAHLE Behr GmbH, Stuttgart, 03.2016 - 09.2016
-  Programming Java-Tools for automation of STAR-CCM+ simulation workflow, post processing and report generation. Updating the code with updated APIs. Implementation of new functionalities and improved automation.
-  Created a cross-platform (Windows, Linux) Java-Tool for automated report generation from CFD simulation results and Excel table.
+[MAHLE Behr GmbH](https://www.mahle.com/en/about-mahle/locations/6106.jsp), Stuttgart, 03.2016 - 09.2016
+  * Programming Java-Tools for automation of STAR-CCM+ simulation workflow, post processing and report generation. Updating the code with updated APIs. 
+  * Implementation of new functionalities and improved automation.
+  * Creation of a cross-platform (Windows, Linux) Java-Tool for automated report generation from CFD simulation results and Excel table.
 
 
 
 ## Education
-* MSc. in Mechanical Engineering focus Robotics at [ETH Zürich](http://www.ethz.ch), 2016-2019
-
+* **MSc. in Mechanical Engineering at [ETH Zürich](http://www.ethz.ch)**, 2016-2019
+Focus in Robotics
   Courses:
   * Machine Learning
   * Probabilistic Artificial Intelligence
@@ -65,7 +72,7 @@ MAHLE Behr GmbH, Stuttgart, 03.2016 - 09.2016
   * Fundamentals of CFD
   * Advanced CFD
 
-* BSc. in Mechanical Engineering at [ETH Zürich](http://www.ethz.ch), 2012-2016
+* **BSc. in Mechanical Engineering at [ETH Zürich](http://www.ethz.ch)**, 2012-2016
 
     Courses:
     * Analysis I/II/III
@@ -99,14 +106,14 @@ MAHLE Behr GmbH, Stuttgart, 03.2016 - 09.2016
 
 
 
-
+### More to come
 My [technical blog](./blogs/blogs.md). Currently empty but will be filled with stuffs during the time.
 
 
 
 
 
-You can find my CV as PDF [here](./resources/CV-Kailin_Huang_2019_Feb_Photo.pdf), last updated in Feb 2019.
+
 
 ## Contact
 My Email is kailin-huang@outlook.com 
