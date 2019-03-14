@@ -40,16 +40,17 @@ ETH Zurich Student Project, AMZ Racing, 09.2013 - 09.2016
 
 * **Particle Filter for lane level localization**
 Short Internship, Autonomous Driving Department, NIO, Shanghai, 12.2018-01.2019
-  Using particle filter to do sensor fusion from camera, GPS and IMU with consideration of HD-Map data.
+  Developing a particle filter to do sensor fusion from camera, GPS and IMU, in order to locate the car precisely inside the correct lane in  HD-Map.
 * **CFD Methodology Development**
 MAHLE Behr GmbH, Stuttgart, 03.2016 - 09.2016
-  Programming Java-Tools for automation of STAR-CCM+ simulation workflow, post processing and report generation.
+  Programming Java-Tools for automation of STAR-CCM+ simulation workflow, post processing and report generation. Updating the code with updated APIs. Implementation of new functionalities and improved automation.
+  Created a cross-platform (Windows, Linux) Java-Tool for automated report generation from CFD simulation results and Excel table.
 
 
 
 ## Education
 * MSc. in Mechanical Engineering focus Robotics at [ETH Zürich](http://www.ethz.ch), 2016-2019
-  
+
   Courses:
   * Machine Learning
   * Probabilistic Artificial Intelligence
@@ -60,22 +61,29 @@ MAHLE Behr GmbH, Stuttgart, 03.2016 - 09.2016
   * Theory of Robotics and Mechatronics
   * Vehicle Propulsion System
   * Flight Dynamics
+  * Introduction to Game Theory
   * Fundamentals of CFD
   * Advanced CFD
 
 * BSc. in Mechanical Engineering at [ETH Zürich](http://www.ethz.ch), 2012-2016
-  
+
     Courses:
     * Analysis I/II/III
     * Mechanics I/II/III
     * Linear Algebra
+    * Chemistry
+    * Machine Elements
+    * Innovation Project
     * Control Systems I/II
     * Signals and Systems
     * Informatics
     * Computational Engineering
+    * Manufacturing Techniques
+    * Dimensioning I/II
     * Fluid Dynamics I/II
     * Thermodynamics I/II/III
     * Aerial and Ground Vehicle Aerodynamcis
+    * Lightweight Construction
 
 
 
