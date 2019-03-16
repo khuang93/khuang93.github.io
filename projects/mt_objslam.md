@@ -1,4 +1,4 @@
 This is the project page of my master thesis, dense object SLAM.
 
-[Code](https://github.com/khuang93/MT_ObjSLAM)
-[Thesis]()
+[Code](https://github.com/khuang93/MT_ObjSLAM) , 
+[Thesis](./resources/MT_ObjSLAM_LaTeX.pdf)
