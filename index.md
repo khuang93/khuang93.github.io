@@ -42,7 +42,7 @@ ETH Zurich Student Project,  [AMZ Racing](http://www.amzracing.ch), 09.2013 - 09
   * Wind-tunnel testing and validation of aerodynamics
   * Mentor of aerodynamics
 
-### Industry
+### Industrial
 
 * **Particle Filter for lane level localization**
 Short Internship, Autonomous Driving Department, [NIO](https://www.nio.io/), Shanghai, 12.2018 - 01.2019
