@@ -14,5 +14,6 @@ logo: /resources/KailinHuangPhoto.jpg
 cv: /resources/CV-Kailin_Huang-2019_Mar_Photo.pdf
 MT_PDF: /resources/MT_ObjSLAM_LaTeX.pdf
 description: Kailin Huang's homepage
+google_analytics: UA-136368704-1
 
 theme: jekyll-theme-minimal
