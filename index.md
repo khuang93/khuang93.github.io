@@ -6,7 +6,7 @@ I am a graduating master student from ETH Zürich Mechanical Engineering, Roboti
 
 I was born in China and grew up there. I moved to Germany with my parents when I was 15. After finishing the German highschool (Abitur), I decided to study mechanical engineering at ETH Zurich and came to Switzerland.
 
-I can speak Chinese, English and German fluently and can, after several years of stuggle, also understand Swiss German. ;)
+I speak Chinese, English and German fluently and can, after several years of stuggle, also understand Swiss German. ;)
 
 <!-- My detailed CV as PDF can be downloaded [here]({{site.cv | relative_url}}), last updated in March 2019. -->
 
