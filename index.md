@@ -43,6 +43,10 @@ ETH Zurich Student Project,  [AMZ Racing](http://www.amzracing.ch), 09.2013 - 09
   * Mentor of aerodynamics
 
 ### Industrial
+* **Sensor Fusion / Software Engineer**
+[Fixposition AG](https://www.fixposition.com/), Zurich, 06.2019 - now
+  * Algorithm design and software development of sensor-fusion pipeline
+  * Supporting customers testing our products
 
 * **Particle Filter for lane level localization**
 Short Internship, Autonomous Driving Department, [NIO](https://www.nio.io/), Shanghai, 12.2018 - 01.2019
