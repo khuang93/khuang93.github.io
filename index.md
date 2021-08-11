@@ -2,7 +2,7 @@
 # **Kailin Huang**  
 
 ## About Me
-I am a newly graduted master student from ETH Zürich Mechanical Engineering, Robotics. My focus is on Computer Vision and Visual Localization and Mapping.
+Sensor Fusion Engineer at Fixposition AG. MSc Mechanical Engineering - Robotics from ETH Zürich. I have experience in Visual Localization and Mapping, GNSS, Sensor Fusion,  Pose-Graph Optimization, Extended Kalman Filter and Paricle Filter.
 
 I was born in China and grew up there. I moved to Germany with my parents when I was 15. After finishing the German highschool (Abitur), I decided came to Switzerland to study mechanical engineering at ETH Zurich.
 
@@ -12,6 +12,23 @@ I speak Chinese, English and German fluently and can, after several years of str
 
 
 ## Projects & Experiences
+
+
+### Industrial
+* **Sensor Fusion / Software Engineer**
+[Fixposition AG](https://www.fixposition.com/), Zurich, 06.2019 - now
+  * Algorithm and software development of sensor-fusion pipeline
+  * Developement of data analysis and visualization tools
+  * Data analysis and customer support
+
+* **Particle Filter for lane level localization**
+Short Internship, Autonomous Driving Department, [NIO](https://www.nio.io/), Shanghai, 12.2018 - 01.2019
+  Developing a particle filter to do sensor fusion from camera, GPS and IMU, in order to locate the car precisely inside the correct lane in  HD-Map.
+* **CFD Methodology Development**
+[MAHLE Behr GmbH](https://www.mahle.com/en/about-mahle/locations/6106.jsp), Stuttgart, 03.2016 - 09.2016
+  * Programming Java-Tools for automation of STAR-CCM+ simulation workflow, post processing and report generation. Updating the code with updated APIs. 
+  * Implementation of new functionalities and improved automation.
+  * Creation of a cross-platform (Windows, Linux) Java-Tool for automated report generation from CFD simulation results and Excel table.
 
 ### Academic
 * **[Dense Object SLAM](./projects/mt_objslam.md)**
@@ -42,20 +59,6 @@ ETH Zurich Student Project,  [AMZ Racing](http://www.amzracing.ch), 09.2013 - 09
   * Wind-tunnel testing and validation of aerodynamics
   * Mentor of aerodynamics
 
-### Industrial
-* **Sensor Fusion / Software Engineer**
-[Fixposition AG](https://www.fixposition.com/), Zurich, 06.2019 - now
-  * Algorithm design and software development of sensor-fusion pipeline
-  * Supporting customers testing our products
-
-* **Particle Filter for lane level localization**
-Short Internship, Autonomous Driving Department, [NIO](https://www.nio.io/), Shanghai, 12.2018 - 01.2019
-  Developing a particle filter to do sensor fusion from camera, GPS and IMU, in order to locate the car precisely inside the correct lane in  HD-Map.
-* **CFD Methodology Development**
-[MAHLE Behr GmbH](https://www.mahle.com/en/about-mahle/locations/6106.jsp), Stuttgart, 03.2016 - 09.2016
-  * Programming Java-Tools for automation of STAR-CCM+ simulation workflow, post processing and report generation. Updating the code with updated APIs. 
-  * Implementation of new functionalities and improved automation.
-  * Creation of a cross-platform (Windows, Linux) Java-Tool for automated report generation from CFD simulation results and Excel table.
 
 
 
