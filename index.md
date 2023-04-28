@@ -100,7 +100,6 @@ Focus in Robotics
     * Lightweight Construction
 
 
-
 ### More to come
 My [technical blog](./blogs/blogs.md). Currently empty but will be filled with stuffs during the time.
 
