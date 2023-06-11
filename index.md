@@ -1,10 +1,9 @@
-<!-- ![](./resources/KailinHuangPhoto.jpg){:height="240px" width="240px"} -->
 # **Kailin Huang**  
 
 ## About Me
-Sensor Fusion Engineer at Fixposition AG. MSc Mechanical Engineering - Robotics from ETH Zürich. I have experience in Visual Localization and Mapping, GNSS, Sensor Fusion,  Pose-Graph Optimization, Extended Kalman Filter and Paricle Filter.
+Sensor Fusion Engineer at Fixposition AG. MSc Mechanical Engineering - Robotics from ETH Zürich. I have experience in Visual Localization and Mapping, GNSS, Sensor Fusion,  Pose-Graph Optimization, Extended Kalman Filter and Particle Filter.
 
-I was born in China and grew up there. I moved to Germany with my parents when I was 15. After finishing the German highschool (Abitur), I decided came to Switzerland to study mechanical engineering at ETH Zurich.
+I was born in China and grew up there. I moved to Germany with my parents when I was 15. After finishing the German highschool (Abitur), I came to Switzerland to study mechanical engineering at ETH Zurich.
 
 I speak Chinese, English and German fluently and can, after several years of struggle, also understand Swiss German. ;)
 
