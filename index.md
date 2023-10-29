@@ -1,10 +1,9 @@
-<!-- ![](./resources/KailinHuangPhoto.jpg){:height="240px" width="240px"} -->
 # **Kailin Huang**  
 
 ## About Me
-I am a newly graduted master student from ETH Zürich Mechanical Engineering, Robotics. My focus is on Computer Vision and Visual Localization and Mapping.
+Sensor Fusion Engineer at Fixposition AG. MSc Mechanical Engineering - Robotics from ETH Zürich. I have experience in Visual Localization and Mapping, GNSS, Sensor Fusion,  Pose-Graph Optimization, Extended Kalman Filter and Particle Filter.
 
-I was born in China and grew up there. I moved to Germany with my parents when I was 15. After finishing the German highschool (Abitur), I decided came to Switzerland to study mechanical engineering at ETH Zurich.
+I was born in China and grew up there. I moved to Germany with my parents when I was 15. After finishing the German highschool (Abitur), I came to Switzerland to study mechanical engineering at ETH Zurich.
 
 I speak Chinese, English and German fluently and can, after several years of struggle, also understand Swiss German. ;)
 
@@ -32,7 +31,7 @@ Short Internship, Autonomous Driving Department, [NIO](https://www.nio.io/), Sha
   * Maintain compatibilities with updated APIs of Star-CCM+. 
   * Implementation of new functionalities and improvements of the automation workflow.
   * Development of a cross-platform (Windows, Linux) Java-Tool for automated report generation from CFD simulation results.
-
+  * 
 ### Academic
 * **[Dense Object SLAM](./projects/mt_objslam.md)**
 Master Thesis, [Computer Vision and Geometry Group](http://www.cvg.ethz.ch/index.php), ETH Zürich, 03.2018 - 10.2018
@@ -62,6 +61,10 @@ ETH Zurich Student Project,  [AMZ Racing](http://www.amzracing.ch), 09.2013 - 09
   * Wind-tunnel testing and validation of aerodynamics
   * Mentor of aerodynamics
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> c444b165ebd1db70c27173e1e1e1880096ab59ce
 
 
 ## Education
@@ -102,13 +105,8 @@ Focus in Robotics
     * Lightweight Construction
 
 
-
-
-
-
 ### More to come
 My [technical blog](./blogs/blogs.md). Currently empty but will be filled with stuffs during the time.
-
 
 
 ## Contact
