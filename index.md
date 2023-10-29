@@ -13,6 +13,26 @@ I speak Chinese, English and German fluently and can, after several years of str
 
 ## Projects & Experiences
 
+
+### Industrial
+* **Sensor Fusion Engineer**
+[Fixposition AG](https://www.fixposition.com/), Zurich, 06.2019 - 11.2023
+  * Development of extended kalman-filter and factor-graph based multi sensor fusion localization algorithm with RTK-GNSS, visual odometry and inertial navigation
+  * Deployment of the algorithm on arm64 based embedded linux platform
+  * Development of tools for data analysis
+  * Supporting integration of our products
+
+* **Particle Filter for lane level localization**
+Short Internship, Autonomous Driving Department, [NIO](https://www.nio.io/), Shanghai, 12.2018 - 01.2019
+  * Prototyping a lane level localication algorithm for autonomous vehicles based on particle filtering with GNSS, IMU and camera perception.
+
+* **CFD Methodology Development**
+[MAHLE Behr GmbH](https://www.mahle.com/en/about-mahle/locations/6106.jsp), Stuttgart, 03.2016 - 09.2016
+  * Programming Java-Tools for automation of STAR-CCM+ simulation workflow, post-processing and report generation. 
+  * Maintain compatibilities with updated APIs of Star-CCM+. 
+  * Implementation of new functionalities and improvements of the automation workflow.
+  * Development of a cross-platform (Windows, Linux) Java-Tool for automated report generation from CFD simulation results.
+
 ### Academic
 * **[Dense Object SLAM](./projects/mt_objslam.md)**
 Master Thesis, [Computer Vision and Geometry Group](http://www.cvg.ethz.ch/index.php), ETH Zürich, 03.2018 - 10.2018
@@ -41,21 +61,6 @@ ETH Zurich Student Project,  [AMZ Racing](http://www.amzracing.ch), 09.2013 - 09
   * Design, simulation, manufacturing of aerodynamics
   * Wind-tunnel testing and validation of aerodynamics
   * Mentor of aerodynamics
-
-### Industrial
-* **Sensor Fusion / Software Engineer**
-[Fixposition AG](https://www.fixposition.com/), Zurich, 06.2019 - now
-  * Algorithm design and software development of sensor-fusion pipeline
-  * Supporting customers testing our products
-
-* **Particle Filter for lane level localization**
-Short Internship, Autonomous Driving Department, [NIO](https://www.nio.io/), Shanghai, 12.2018 - 01.2019
-  Developing a particle filter to do sensor fusion from camera, GPS and IMU, in order to locate the car precisely inside the correct lane in  HD-Map.
-* **CFD Methodology Development**
-[MAHLE Behr GmbH](https://www.mahle.com/en/about-mahle/locations/6106.jsp), Stuttgart, 03.2016 - 09.2016
-  * Programming Java-Tools for automation of STAR-CCM+ simulation workflow, post processing and report generation. Updating the code with updated APIs. 
-  * Implementation of new functionalities and improved automation.
-  * Creation of a cross-platform (Windows, Linux) Java-Tool for automated report generation from CFD simulation results and Excel table.
 
 
 
