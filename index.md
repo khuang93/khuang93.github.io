@@ -31,7 +31,7 @@ Short Internship, Autonomous Driving Department, [NIO](https://www.nio.io/), Sha
   * Maintain compatibilities with updated APIs of Star-CCM+. 
   * Implementation of new functionalities and improvements of the automation workflow.
   * Development of a cross-platform (Windows, Linux) Java-Tool for automated report generation from CFD simulation results.
-  * 
+
 ### Academic
 * **[Dense Object SLAM](./projects/mt_objslam.md)**
 Master Thesis, [Computer Vision and Geometry Group](http://www.cvg.ethz.ch/index.php), ETH Zürich, 03.2018 - 10.2018
