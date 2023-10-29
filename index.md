@@ -61,12 +61,6 @@ ETH Zurich Student Project,  [AMZ Racing](http://www.amzracing.ch), 09.2013 - 09
   * Wind-tunnel testing and validation of aerodynamics
   * Mentor of aerodynamics
 
-<<<<<<< HEAD
-=======
-
->>>>>>> c444b165ebd1db70c27173e1e1e1880096ab59ce
-
-
 ## Education
 * **MSc. in Mechanical Engineering at [ETH Zürich](http://www.ethz.ch)**, 2016-2019
 Focus in Robotics
