@@ -1,7 +1,7 @@
 # **Kailin Huang**  
 
 ## About Me
-Sensor Fusion Engineer at Fixposition AG. MSc Mechanical Engineering - Robotics from ETH Zürich. I have experience in Visual Localization and Mapping, GNSS, Sensor Fusion,  Pose-Graph Optimization, Extended Kalman Filter and Particle Filter.
+Software Engineer for Autonomous Driving at NVIDIA. MSc Mechanical Engineering - Robotics from ETH Zürich. I have experience in Visual Localization and Mapping, GNSS, Sensor Fusion,  Pose-Graph Optimization, Extended Kalman Filter and Particle Filter.
 
 I was born in China and grew up there. I moved to Germany with my parents when I was 15. After finishing the German highschool (Abitur), I came to Switzerland to study mechanical engineering at ETH Zurich.
 
@@ -14,17 +14,20 @@ I speak Chinese, English and German fluently and can, after several years of str
 
 
 ### Industrial
+* **Senior Software Engineer for Autonomous Driving**
+[NVIDIA](https://www.nvidia.com/en-us/self-driving-cars/), Zurich, 12.2023 - current
+  * Software development for state estimation for NVIDIA's autonomous driving system
+
 * **Sensor Fusion Engineer**
 [Fixposition AG](https://www.fixposition.com/), Zurich, 06.2019 - 11.2023
-  * Development of extended kalman-filter and factor-graph based multi sensor fusion localization algorithm with RTK-GNSS, visual odometry and inertial navigation
-  * Deployment of the algorithm on arm64 based embedded linux platform
-  * Development of tools for data analysis
-  * Supporting integration of our products
+  * Sensor fusion for high-precision localization using VO/VIO, RTK-GNSS, IMU and V-SLAM
+  * Embedded Linux software development
+  * Tools for data organization, analysis and visualization
 
 * **Particle Filter for lane level localization**
 Short Internship, Autonomous Driving Department, [NIO](https://www.nio.io/), Shanghai, 12.2018 - 01.2019
-  * Prototyping a lane level localication algorithm for autonomous vehicles based on particle filtering with GNSS, IMU and camera perception.
-
+  * Sensor fusion using particle filtering for lane level localization using Vision, GNSS and IMU data.
+  
 * **CFD Methodology Development**
 [MAHLE Behr GmbH](https://www.mahle.com/en/about-mahle/locations/6106.jsp), Stuttgart, 03.2016 - 09.2016
   * Programming Java-Tools for automation of STAR-CCM+ simulation workflow, post-processing and report generation. 
