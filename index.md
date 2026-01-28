@@ -1,4 +1,4 @@
-# **Kailin Huang**  
+# **Kailin Huang**
 
 ## About Me
 Software Engineer for Autonomous Driving at NVIDIA. MSc Mechanical Engineering - Robotics from ETH Zürich. I have experience in Visual Localization and Mapping, GNSS, Sensor Fusion,  Pose-Graph Optimization, Extended Kalman Filter and Particle Filter.
@@ -16,7 +16,8 @@ I speak Chinese, English and German fluently and can, after several years of str
 ### Industrial
 * **Senior Software Engineer for Autonomous Driving**
 [NVIDIA](https://www.nvidia.com/en-us/self-driving-cars/), Zurich, 12.2023 - current
-  * Software development for state estimation for NVIDIA's autonomous driving system
+  * State estimation for autonomous vehicles
+  * Development of automotive safety certified software deployed on production vehicles
 
 * **Sensor Fusion Engineer**
 [Fixposition AG](https://www.fixposition.com/), Zurich, 06.2019 - 11.2023
@@ -27,11 +28,11 @@ I speak Chinese, English and German fluently and can, after several years of str
 * **Particle Filter for lane level localization**
 Short Internship, Autonomous Driving Department, [NIO](https://www.nio.io/), Shanghai, 12.2018 - 01.2019
   * Sensor fusion using particle filtering for lane level localization using Vision, GNSS and IMU data.
-  
+
 * **CFD Methodology Development**
 [MAHLE Behr GmbH](https://www.mahle.com/en/about-mahle/locations/6106.jsp), Stuttgart, 03.2016 - 09.2016
-  * Programming Java-Tools for automation of STAR-CCM+ simulation workflow, post-processing and report generation. 
-  * Maintain compatibilities with updated APIs of Star-CCM+. 
+  * Programming Java-Tools for automation of STAR-CCM+ simulation workflow, post-processing and report generation.
+  * Maintain compatibilities with updated APIs of Star-CCM+.
   * Implementation of new functionalities and improvements of the automation workflow.
   * Development of a cross-platform (Windows, Linux) Java-Tool for automated report generation from CFD simulation results.
 
@@ -57,7 +58,7 @@ Bachelor Thesis, ETH Zürich
 
 * **Formula Student Electric**
 ETH Zurich Student Project,  [AMZ Racing](http://www.amzracing.ch), 09.2013 - 09.2016
-  Building a formula style race car in a team of about 25 people. Compete in Formula Student competitions (Formula Student [Germany](http://www.formulastudent.de) 
+  Building a formula style race car in a team of about 25 people. Compete in Formula Student competitions (Formula Student [Germany](http://www.formulastudent.de)
 , [UK](http://www.imeche.org/events/formula-student/), [Austria](https://fsaustria.at/), [Spain](http://formulastudent.es/)) across Europe.
   * Design and development of steering system
   * Design, simulation, manufacturing of aerodynamics
@@ -107,7 +108,7 @@ My [technical blog](./blogs/blogs.md). Currently empty but will be filled with s
 
 
 ## Contact
-My Email is kailin-huang@outlook.com 
+My Email is kailin-huang@outlook.com
 
-You are also welcome to follow me and message me on [LinkedIn](https://www.linkedin.com/in/kailinhuang93/) and [Github](https://github.com/khuang93). 
+You are also welcome to follow me and message me on [LinkedIn](https://www.linkedin.com/in/kailinhuang93/) and [Github](https://github.com/khuang93).
 I am also a hobby photograph, follow [Instagram](https://www.instagram.com/khuang1993/) and [Shutterstock](https://www.shutterstock.com/g/Kailin+Huang) to see my photos.
